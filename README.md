@@ -113,3 +113,4 @@ Learn → Analyze → Visualize → Communicate insights from data.
 # Avg Wait Time.Png
 (https://github.com/OmkarRaut310/Hospital-Emergency-Room-Dashboard/blob/main/Avg%20Wait%20Time.png)
 # Satisfaction Score Daily Trends.png
+(https://github.com/OmkarRaut310/Hospital-Emergency-Room-Dashboard/blob/main/Satisfaction%20Score%20Daily%20Trend.png)
