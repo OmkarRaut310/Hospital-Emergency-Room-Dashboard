@@ -109,4 +109,5 @@ Learn → Analyze → Visualize → Communicate insights from data.
 # Dashboard interface like this
 (https://github.com/OmkarRaut310/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.png)
 # Daily ER No Of Patient.png
-
+(https://github.com/OmkarRaut310/Hospital-Emergency-Room-Dashboard/blob/main/Daily%20ER%20No%20Of%20Patient.png)
+# Avg Wait Time.Png
