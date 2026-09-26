@@ -106,3 +106,6 @@ Hospital-Emergency-Room-Dashboard/
 ⭐ Project Goal
 Learn → Analyze → Visualize → Communicate insights from data.
 
+# Dashboard interface like this
+(https://github.com/OmkarRaut310/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.png)
+
